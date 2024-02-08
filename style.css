@@ -1,0 +1,21 @@
+style
+
+body
+{background-color: black;}
+h1 {color: brown;
+text-align: center;}
+
+p{color:aqua;}
+
+h3{color:blue;}
+
+li{color: black;}
+body
+style
+{background-color: black;}
+
+h1 {color: brown; text-align: center;}
+
+h3 {color: blueviolet;}
+
+li *{color: rgb(0, 0, 255);}
